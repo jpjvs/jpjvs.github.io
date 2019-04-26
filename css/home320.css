@@ -1,2028 +1,5 @@
 
 
-.bp4-home1440 {
-  width               : 100%;
-  min-width           : 1440px;
-  height              : 100vh;
-  min-height          : 4430px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(0, 0, 0, 1.0);
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.bp4-anima-animate-enter {
-  opacity             : 0;
-  transform           : scale(1.1);
-  display             : block;
-  -webkit-animation   : bp4-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -moz-animation      : bp4-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -o-animation        : bp4-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
-  animation           : bp4-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -webkit-animation-delay: 0s;
-  -moz-animation-delay: 0s;
-  -o-animation-delay  : 0s;
-  animation-delay     : 0s;
-}
-@-webkit-keyframes bp4-anima-animate-enter-frames {
-  0%
-   
-  {
-  opacity: 0;
-  transform: scale(1.1);
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-  transform: scale(1);
-    }
-}
-@-moz-keyframes bp4-anima-animate-enter-frames {
-  0%
-   
-  {
-  opacity: 0;
-  transform: scale(1.1);
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-  transform: scale(1);
-    }
-}
-@-o-keyframes bp4-anima-animate-enter-frames {
-  0%
-   
-  {
-  opacity: 0;
-  transform: scale(1.1);
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-  transform: scale(1);
-    }
-}
-@keyframes bp4-anima-animate-enter-frames {
-  0%
-   
-  {
-  opacity: 0;
-  transform: scale(1.1);
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-  transform: scale(1);
-    }
-}
-.bp4-anima-animate-enter1 {
-  opacity             : 0;
-  transform           : scale(1.1);
-  display             : block;
-  -webkit-animation   : bp4-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -moz-animation      : bp4-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -o-animation        : bp4-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
-  animation           : bp4-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -webkit-animation-delay: 0s;
-  -moz-animation-delay: 0s;
-  -o-animation-delay  : 0s;
-  animation-delay     : 0s;
-}
-@-webkit-keyframes bp4-anima-animate-enter1-frames {
-  0%
-   
-  {
-  opacity: 0;
-  transform: scale(1.1);
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-  transform: scale(1);
-    }
-}
-@-moz-keyframes bp4-anima-animate-enter1-frames {
-  0%
-   
-  {
-  opacity: 0;
-  transform: scale(1.1);
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-  transform: scale(1);
-    }
-}
-@-o-keyframes bp4-anima-animate-enter1-frames {
-  0%
-   
-  {
-  opacity: 0;
-  transform: scale(1.1);
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-  transform: scale(1);
-    }
-}
-@keyframes bp4-anima-animate-enter1-frames {
-  0%
-   
-  {
-  opacity: 0;
-  transform: scale(1.1);
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-  transform: scale(1);
-    }
-}
-.bp4-anima-animate-enter2 {
-  opacity             : 0;
-  transform           : scale(1.1);
-  display             : block;
-  -webkit-animation   : bp4-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
-  -moz-animation      : bp4-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
-  -o-animation        : bp4-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
-  animation           : bp4-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
-  -webkit-animation-delay: 0s;
-  -moz-animation-delay: 0s;
-  -o-animation-delay  : 0s;
-  animation-delay     : 0s;
-}
-@-webkit-keyframes bp4-anima-animate-enter2-frames {
-  0%
-   
-  {
-  opacity: 0;
-  transform: scale(1.1);
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-  transform: scale(1);
-    }
-}
-@-moz-keyframes bp4-anima-animate-enter2-frames {
-  0%
-   
-  {
-  opacity: 0;
-  transform: scale(1.1);
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-  transform: scale(1);
-    }
-}
-@-o-keyframes bp4-anima-animate-enter2-frames {
-  0%
-   
-  {
-  opacity: 0;
-  transform: scale(1.1);
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-  transform: scale(1);
-    }
-}
-@keyframes bp4-anima-animate-enter2-frames {
-  0%
-   
-  {
-  opacity: 0;
-  transform: scale(1.1);
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-  transform: scale(1);
-    }
-}
-.bp4-home1440 .bp4-group14 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 3979px;
-  height              : 451px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 2px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group14 .bp4-rectangle5 {
-  background-color    : rgba(107, 107, 107, 1.0);
-  top                 : 0px;
-  height              : 451px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 37px;
-  height              : 353px;
-  width               : 1186px;
-  position            : absolute;
-  margin              : 0;
-  left                : 120px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-sobre1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 104px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 252px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
-  font-size           : 25.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 30.0px;
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-bitmap3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 133px;
-  width               : 133px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-empresa {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 30px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 252px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
-  font-size           : 30.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 37.0px;
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-gameloves {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 104px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 520px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
-  font-size           : 25.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 30.0px;
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-acompanhe {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 315px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 520px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
-  font-size           : 25.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 30.0px;
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-assista {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 315px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 252px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
-  font-size           : 25.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 30.0px;
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-comunidade1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 30px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 520px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
-  font-size           : 30.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 37.0px;
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-video1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 245px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 252px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
-  font-size           : 30.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 37.0px;
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-time2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 245px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 520px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
-  font-size           : 30.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 37.0px;
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-email {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 109px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 916px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 25.0px;
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-redessociais {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 252px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 916px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 25.0px;
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-eitastdgmailcom {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 171px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 974px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "HelveticaNeue", Helvetica, Arial, serif;
-  font-size           : 25.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 30.0px;
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-eitastudios {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 314px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 974px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "HelveticaNeue", Helvetica, Arial, serif;
-  font-size           : 25.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 30.0px;
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-contato1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 30px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 843px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
-  font-size           : 30.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 37.0px;
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-instagramlogo {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 297px;
-  height              : 56px;
-  width               : 56px;
-  position            : absolute;
-  margin              : 0;
-  left                : 867px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-email2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 154px;
-  height              : 56px;
-  width               : 56px;
-  position            : absolute;
-  margin              : 0;
-  left                : 867px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-rectangle {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 812px;
-  height              : 2879px;
-  width               : 1443px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-sobrecopy2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1651px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 146px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 48.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : left;
-  line-height         : 63.0px;
-}
-.bp4-home1440 .bp4-time {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 2044px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 147px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 48.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : left;
-  line-height         : 63.0px;
-}
-.bp4-home1440 .bp4-jogoss343omassaquan {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1764px;
-  height              : auto;
-  width               : 1148px;
-  position            : absolute;
-  margin              : 0;
-  left                : 147px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 34.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : left;
-  line-height         : 45.0px;
-}
-.bp4-home1440 .bp4-rectangle1 {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 122px;
-  height              : 16px;
-  width               : 761px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-rectangle2 {
-  background-color    : rgba(255, 247, 18, 1.0);
-  top                 : 649px;
-  height              : 16px;
-  width               : 801px;
-  position            : absolute;
-  margin              : 0;
-  left                : 642px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-eit301cansadodees {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 213px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 330px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 90.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 119.0px;
-}
-.bp4-home1440 .bp4-comunidade {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 47px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 821px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 27.0px;
-}
-.bp4-home1440 .bp4-comunidade:hover {
-  transform           : scale(1.1);
-}
-.bp4-home1440 .bp4-sobre {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 47px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 1024px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 27.0px;
-}
-.bp4-home1440 .bp4-sobre:hover {
-  transform           : scale(1.1);
-}
-.bp4-home1440 .bp4-time1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 47px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 1149px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 27.0px;
-}
-.bp4-home1440 .bp4-time1:hover {
-  transform           : scale(1.1);
-}
-.bp4-home1440 .bp4-contato {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 47px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 1256px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 27.0px;
-}
-.bp4-home1440 .bp4-contato:hover {
-  transform           : scale(1.1);
-}
-.bp4-home1440 .bp4-video {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 47px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 697px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 27.0px;
-}
-.bp4-home1440 .bp4-video:hover {
-  transform           : scale(1.1);
-}
-.bp4-home1440 .bp4-rectangle3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 727px;
-  height              : 697px;
-  width               : 1149px;
-  position            : absolute;
-  margin              : 0;
-  left                : 146px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  overflow            : hidden;
-}
-.bp4-home1440 .bp4-bitmap {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1485px;
-  height              : 70px;
-  width               : 562px;
-  position            : absolute;
-  margin              : 0;
-  left                : 470px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-home1440 .bp4-bitmap:hover {
-  transform           : scale(1.1);
-}
-.bp4-home1440 .bp4-bitmap1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 3551px;
-  height              : 70px;
-  width               : 524px;
-  position            : absolute;
-  margin              : 0;
-  left                : 461px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-home1440 .bp4-bitmap1:hover {
-  transform           : scale(1.1);
-}
-.bp4-home1440 .bp4-group2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 2167px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 136px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-home1440 .bp4-group2:hover {
-  transform           : translate(0, -5px);
-}
-.bp4-home1440 .bp4-group2 .bp4-rectangle5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 10px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group2 .bp4-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 137px;
-  height              : 227px;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 37px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group2 .bp4-group .bp4-annac {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 32px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 49.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 65.0px;
-}
-.bp4-home1440 .bp4-group2 .bp4-group .bp4-designer {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 73px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 76px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 27.0px;
-}
-.bp4-home1440 .bp4-group2 .bp4-group .bp4-piscianaeamantedo {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 139px;
-  height              : auto;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 17.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 23.0px;
-}
-.bp4-home1440 .bp4-group2 .bp4-photo20190425103256 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 20px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 91px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group2 .bp4-photo20190425103256 .bp4-photo201904251032561 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 2618px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 137px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-home1440 .bp4-group5:hover {
-  transform           : translate(0, -5px);
-}
-.bp4-home1440 .bp4-group5 .bp4-rectangle5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 10px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group5 .bp4-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 137px;
-  height              : 227px;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 37px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group5 .bp4-group .bp4-camilac {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 12px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 49.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 65.0px;
-}
-.bp4-home1440 .bp4-group5 .bp4-group .bp4-marketing {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 73px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 68px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 27.0px;
-}
-.bp4-home1440 .bp4-group5 .bp4-group .bp4-umacorvinalcommui {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 139px;
-  height              : auto;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 17.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 23.0px;
-}
-.bp4-home1440 .bp4-group5 .bp4-photo20190425110018 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 14px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 90px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group5 .bp4-photo20190425110018 .bp4-photo201904251100181 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group8 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 3069px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 137px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-home1440 .bp4-group8:hover {
-  transform           : translate(0, -5px);
-}
-.bp4-home1440 .bp4-group8 .bp4-rectangle5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 10px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group8 .bp4-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 137px;
-  height              : 227px;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 37px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group8 .bp4-group .bp4-luanan {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 20px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 49.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 65.0px;
-}
-.bp4-home1440 .bp4-group8 .bp4-group .bp4-marketing {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 73px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 69px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 27.0px;
-}
-.bp4-home1440 .bp4-group8 .bp4-group .bp4-adoras351riespodcas {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 139px;
-  height              : auto;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 17.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 23.0px;
-}
-.bp4-home1440 .bp4-group8 .bp4-photo20190425105959 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 14px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 90px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group8 .bp4-photo20190425105959 .bp4-photo201904251059591 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 2167px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 558px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-home1440 .bp4-group3:hover {
-  transform           : translate(0, -5px);
-}
-.bp4-home1440 .bp4-group3 .bp4-rectangle5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 10px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group3 .bp4-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 137px;
-  height              : 227px;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 37px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group3 .bp4-group .bp4-arthurt {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 25px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 49.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 65.0px;
-}
-.bp4-home1440 .bp4-group3 .bp4-group .bp4-desenvolvedor {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 73px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 49px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 27.0px;
-}
-.bp4-home1440 .bp4-group3 .bp4-group .bp4-apessoafitnessdo {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 139px;
-  height              : auto;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 17.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 23.0px;
-}
-.bp4-home1440 .bp4-group3 .bp4-photo20190425105945 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 14px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 91px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group3 .bp4-photo20190425105945 .bp4-photo201904251059451 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group6 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 2618px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 559px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-home1440 .bp4-group6:hover {
-  transform           : translate(0, -5px);
-}
-.bp4-home1440 .bp4-group6 .bp4-rectangle5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 10px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group6 .bp4-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 137px;
-  height              : 227px;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 37px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group6 .bp4-group .bp4-fl341vior {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 27px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 49.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 65.0px;
-}
-.bp4-home1440 .bp4-group6 .bp4-group .bp4-designer {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 73px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 75px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 27.0px;
-}
-.bp4-home1440 .bp4-group6 .bp4-group .bp4-conhecidocomojesus {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 139px;
-  height              : auto;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 17.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 23.0px;
-}
-.bp4-home1440 .bp4-group6 .bp4-photo20190425105949 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 14px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 92px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group6 .bp4-photo20190425105949 .bp4-photo201904251059491 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group9 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 3069px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 559px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-home1440 .bp4-group9:hover {
-  transform           : translate(0, -5px);
-}
-.bp4-home1440 .bp4-group9 .bp4-rectangle5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 10px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group9 .bp4-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 137px;
-  height              : 227px;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 37px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group9 .bp4-group .bp4-markusc {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 7px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 49.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 65.0px;
-}
-.bp4-home1440 .bp4-group9 .bp4-group .bp4-desenvolvedor {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 73px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 48px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 27.0px;
-}
-.bp4-home1440 .bp4-group9 .bp4-group .bp4-paidethegoodboya {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 139px;
-  height              : auto;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 17.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 23.0px;
-}
-.bp4-home1440 .bp4-group9 .bp4-photo20190425110003 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 14px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 90px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group9 .bp4-photo20190425110003 .bp4-photo201904251100031 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 2167px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 981px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-home1440 .bp4-group4:hover {
-  transform           : translate(0, -5px);
-}
-.bp4-home1440 .bp4-group4 .bp4-rectangle5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 10px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group4 .bp4-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 137px;
-  height              : 227px;
-  width               : 241px;
-  position            : absolute;
-  margin              : 0;
-  left                : 33px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group4 .bp4-group .bp4-augustoq {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : -1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 49.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 65.0px;
-}
-.bp4-home1440 .bp4-group4 .bp4-group .bp4-desenvolvedor {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 73px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 52px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 27.0px;
-}
-.bp4-home1440 .bp4-group4 .bp4-group .bp4-ocaradosmemesel {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 139px;
-  height              : auto;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 4px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 17.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 23.0px;
-}
-.bp4-home1440 .bp4-group4 .bp4-photo20190425110013 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 14px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 91px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group4 .bp4-photo20190425110013 .bp4-photo201904251100131 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group7 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 2618px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 982px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-home1440 .bp4-group7:hover {
-  transform           : translate(0, -5px);
-}
-.bp4-home1440 .bp4-group7 .bp4-rectangle5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 10px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group7 .bp4-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 137px;
-  height              : 227px;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 37px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group7 .bp4-group .bp4-jo343ov {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 37px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 49.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 65.0px;
-}
-.bp4-home1440 .bp4-group7 .bp4-group .bp4-desenvolvedor {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 73px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 48px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 27.0px;
-}
-.bp4-home1440 .bp4-group7 .bp4-group .bp4-temumcachorrinhol {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 139px;
-  height              : auto;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 17.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 23.0px;
-}
-.bp4-home1440 .bp4-group7 .bp4-photo20190425110835 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 14px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 92px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group7 .bp4-photo20190425110835 .bp4-photo201904251108351 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group10 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 3069px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 982px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-home1440 .bp4-group10:hover {
-  transform           : translate(0, -5px);
-}
-.bp4-home1440 .bp4-group10 .bp4-rectangle5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 390px;
-  width               : 304px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 10px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group10 .bp4-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 137px;
-  height              : 227px;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 37px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group10 .bp4-group .bp4-ramonw {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 5px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 49.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 65.0px;
-}
-.bp4-home1440 .bp4-group10 .bp4-group .bp4-desenvolvedor {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 73px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 48px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 27.0px;
-}
-.bp4-home1440 .bp4-group10 .bp4-group .bp4-ohomendoshackatho {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 139px;
-  height              : auto;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 17.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 23.0px;
-}
-.bp4-home1440 .bp4-group10 .bp4-photo20190425110007 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 14px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 92px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group10 .bp4-photo20190425110007 .bp4-photo201904251100071 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 123px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-bitmap2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 35px;
-  height              : 70px;
-  width               : 70px;
-  position            : absolute;
-  margin              : 0;
-  left                : 66px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-inscrevaseparamai {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 3757px;
-  height              : auto;
-  width               : 1151px;
-  position            : absolute;
-  margin              : 0;
-  left                : 147px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 55.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 73.0px;
-}
-.bp4-home1440 .bp4-rectangle4 {
-  background-color    : rgba(215, 215, 215, 0.8);
-  top                 : 3866px;
-  height              : 38px;
-  width               : 401px;
-  position            : absolute;
-  margin              : 0;
-  left                : 463px;
-  border-radius       : 10px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-textescrevaaquioseuemail {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 3869px;
-  height              : 30px;
-  width               : 366px;
-  position            : absolute;
-  margin              : 0;
-  left                : 481px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 17.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : left;
-  line-height         : 23.0px;
-  border              : 0;
-  resize              : none;
-  padding             : 0;
-}
-.bp4-home1440 .bp4-textescrevaaquioseuemail::placeholder {
-  color               : rgba(0, 0, 0, 0.6);
-}
-.bp4-home1440 .bp4-group12 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 3866px;
-  height              : 38px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 864px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group12 .bp4-rectangle5 {
-  background-color    : rgba(237, 2, 140, 1.0);
-  top                 : 0px;
-  height              : 38px;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 10px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-home1440 .bp4-group12 .bp4-inscrever {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 8px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 27px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 17.0px;
-  color               : rgba(254, 244, 2, 1.0);
-  text-align          : center;
-  line-height         : 23.0px;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
 .bp3-home1024 {
   width               : 100%;
   min-width           : 1024px;
@@ -7679,6 +5656,2029 @@ div {
   color               : rgba(254, 247, 1, 1.0);
   text-align          : center;
   line-height         : 10.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp4-home1440 {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 4430px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(0, 0, 0, 1.0);
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp4-anima-animate-enter {
+  opacity             : 0;
+  transform           : scale(1.1);
+  display             : block;
+  -webkit-animation   : bp4-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp4-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp4-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp4-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp4-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@-moz-keyframes bp4-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@-o-keyframes bp4-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@keyframes bp4-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+.bp4-anima-animate-enter1 {
+  opacity             : 0;
+  transform           : scale(1.1);
+  display             : block;
+  -webkit-animation   : bp4-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp4-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp4-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp4-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp4-anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@-moz-keyframes bp4-anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@-o-keyframes bp4-anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@keyframes bp4-anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+.bp4-anima-animate-enter2 {
+  opacity             : 0;
+  transform           : scale(1.1);
+  display             : block;
+  -webkit-animation   : bp4-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -moz-animation      : bp4-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -o-animation        : bp4-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  animation           : bp4-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp4-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@-moz-keyframes bp4-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@-o-keyframes bp4-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@keyframes bp4-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+.bp4-home1440 .bp4-group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3979px;
+  height              : 451px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group14 .bp4-rectangle5 {
+  background-color    : rgba(107, 107, 107, 1.0);
+  top                 : 0px;
+  height              : 451px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 353px;
+  width               : 1186px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-sobre1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 104px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 252px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-bitmap3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 133px;
+  width               : 133px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-empresa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 252px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 37.0px;
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-gameloves {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 104px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 520px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-acompanhe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 520px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-assista {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 252px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-comunidade1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 520px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 37.0px;
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-video1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 245px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 252px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 37.0px;
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-time2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 245px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 520px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 37.0px;
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 109px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 916px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-redessociais {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 252px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 916px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-eitastdgmailcom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 171px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 974px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-eitastudios {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 314px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 974px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-contato1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 843px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 37.0px;
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-instagramlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 297px;
+  height              : 56px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 867px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group14 .bp4-group11 .bp4-email2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 154px;
+  height              : 56px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 867px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 812px;
+  height              : 2879px;
+  width               : 1443px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-sobrecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1651px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 63.0px;
+}
+.bp4-home1440 .bp4-time {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2044px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 147px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 63.0px;
+}
+.bp4-home1440 .bp4-jogoss343omassaquan {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1764px;
+  height              : auto;
+  width               : 1148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 147px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 34.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 45.0px;
+}
+.bp4-home1440 .bp4-rectangle1 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 122px;
+  height              : 16px;
+  width               : 761px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-rectangle2 {
+  background-color    : rgba(255, 247, 18, 1.0);
+  top                 : 649px;
+  height              : 16px;
+  width               : 801px;
+  position            : absolute;
+  margin              : 0;
+  left                : 642px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-eit301cansadodees {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 213px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 330px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 90.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 119.0px;
+}
+.bp4-home1440 .bp4-comunidade {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 821px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.bp4-home1440 .bp4-comunidade:hover {
+  transform           : scale(1.1);
+}
+.bp4-home1440 .bp4-sobre {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1024px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.bp4-home1440 .bp4-sobre:hover {
+  transform           : scale(1.1);
+}
+.bp4-home1440 .bp4-time1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1149px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.bp4-home1440 .bp4-time1:hover {
+  transform           : scale(1.1);
+}
+.bp4-home1440 .bp4-contato {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1256px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.bp4-home1440 .bp4-contato:hover {
+  transform           : scale(1.1);
+}
+.bp4-home1440 .bp4-video {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 697px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.bp4-home1440 .bp4-video:hover {
+  transform           : scale(1.1);
+}
+.bp4-home1440 .bp4-rectangle3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 727px;
+  height              : 697px;
+  width               : 1149px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  overflow            : hidden;
+}
+.bp4-home1440 .bp4-bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1485px;
+  height              : 70px;
+  width               : 562px;
+  position            : absolute;
+  margin              : 0;
+  left                : 470px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-home1440 .bp4-bitmap:hover {
+  transform           : scale(1.1);
+}
+.bp4-home1440 .bp4-bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3551px;
+  height              : 70px;
+  width               : 524px;
+  position            : absolute;
+  margin              : 0;
+  left                : 461px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-home1440 .bp4-bitmap1:hover {
+  transform           : scale(1.1);
+}
+.bp4-home1440 .bp4-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2167px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 136px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-home1440 .bp4-group2:hover {
+  transform           : translate(0, -5px);
+}
+.bp4-home1440 .bp4-group2 .bp4-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group2 .bp4-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 227px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group2 .bp4-group .bp4-annac {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 49.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 65.0px;
+}
+.bp4-home1440 .bp4-group2 .bp4-group .bp4-designer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 76px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.bp4-home1440 .bp4-group2 .bp4-group .bp4-piscianaeamantedo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.bp4-home1440 .bp4-group2 .bp4-photo20190425103256 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 91px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group2 .bp4-photo20190425103256 .bp4-photo201904251032561 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2618px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 137px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-home1440 .bp4-group5:hover {
+  transform           : translate(0, -5px);
+}
+.bp4-home1440 .bp4-group5 .bp4-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group5 .bp4-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 227px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group5 .bp4-group .bp4-camilac {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 49.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 65.0px;
+}
+.bp4-home1440 .bp4-group5 .bp4-group .bp4-marketing {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 68px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.bp4-home1440 .bp4-group5 .bp4-group .bp4-umacorvinalcommui {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.bp4-home1440 .bp4-group5 .bp4-photo20190425110018 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group5 .bp4-photo20190425110018 .bp4-photo201904251100181 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3069px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 137px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-home1440 .bp4-group8:hover {
+  transform           : translate(0, -5px);
+}
+.bp4-home1440 .bp4-group8 .bp4-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group8 .bp4-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 227px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group8 .bp4-group .bp4-luanan {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 49.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 65.0px;
+}
+.bp4-home1440 .bp4-group8 .bp4-group .bp4-marketing {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.bp4-home1440 .bp4-group8 .bp4-group .bp4-adoras351riespodcas {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.bp4-home1440 .bp4-group8 .bp4-photo20190425105959 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group8 .bp4-photo20190425105959 .bp4-photo201904251059591 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2167px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 558px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-home1440 .bp4-group3:hover {
+  transform           : translate(0, -5px);
+}
+.bp4-home1440 .bp4-group3 .bp4-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group3 .bp4-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 227px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group3 .bp4-group .bp4-arthurt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 49.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 65.0px;
+}
+.bp4-home1440 .bp4-group3 .bp4-group .bp4-desenvolvedor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.bp4-home1440 .bp4-group3 .bp4-group .bp4-apessoafitnessdo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.bp4-home1440 .bp4-group3 .bp4-photo20190425105945 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 91px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group3 .bp4-photo20190425105945 .bp4-photo201904251059451 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2618px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 559px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-home1440 .bp4-group6:hover {
+  transform           : translate(0, -5px);
+}
+.bp4-home1440 .bp4-group6 .bp4-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group6 .bp4-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 227px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group6 .bp4-group .bp4-fl341vior {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 49.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 65.0px;
+}
+.bp4-home1440 .bp4-group6 .bp4-group .bp4-designer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 75px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.bp4-home1440 .bp4-group6 .bp4-group .bp4-conhecidocomojesus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.bp4-home1440 .bp4-group6 .bp4-photo20190425105949 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 92px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group6 .bp4-photo20190425105949 .bp4-photo201904251059491 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3069px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 559px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-home1440 .bp4-group9:hover {
+  transform           : translate(0, -5px);
+}
+.bp4-home1440 .bp4-group9 .bp4-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group9 .bp4-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 227px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group9 .bp4-group .bp4-markusc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 49.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 65.0px;
+}
+.bp4-home1440 .bp4-group9 .bp4-group .bp4-desenvolvedor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 48px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.bp4-home1440 .bp4-group9 .bp4-group .bp4-paidethegoodboya {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.bp4-home1440 .bp4-group9 .bp4-photo20190425110003 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group9 .bp4-photo20190425110003 .bp4-photo201904251100031 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2167px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 981px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-home1440 .bp4-group4:hover {
+  transform           : translate(0, -5px);
+}
+.bp4-home1440 .bp4-group4 .bp4-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group4 .bp4-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 227px;
+  width               : 241px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group4 .bp4-group .bp4-augustoq {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 49.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 65.0px;
+}
+.bp4-home1440 .bp4-group4 .bp4-group .bp4-desenvolvedor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.bp4-home1440 .bp4-group4 .bp4-group .bp4-ocaradosmemesel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.bp4-home1440 .bp4-group4 .bp4-photo20190425110013 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 91px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group4 .bp4-photo20190425110013 .bp4-photo201904251100131 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2618px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 982px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-home1440 .bp4-group7:hover {
+  transform           : translate(0, -5px);
+}
+.bp4-home1440 .bp4-group7 .bp4-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group7 .bp4-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 227px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group7 .bp4-group .bp4-jo343ov {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 49.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 65.0px;
+}
+.bp4-home1440 .bp4-group7 .bp4-group .bp4-desenvolvedor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 48px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.bp4-home1440 .bp4-group7 .bp4-group .bp4-temumcachorrinhol {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.bp4-home1440 .bp4-group7 .bp4-photo20190425110835 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 92px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group7 .bp4-photo20190425110835 .bp4-photo201904251108351 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3069px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 982px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-home1440 .bp4-group10:hover {
+  transform           : translate(0, -5px);
+}
+.bp4-home1440 .bp4-group10 .bp4-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 390px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group10 .bp4-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 227px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group10 .bp4-group .bp4-ramonw {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 49.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 65.0px;
+}
+.bp4-home1440 .bp4-group10 .bp4-group .bp4-desenvolvedor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 48px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.bp4-home1440 .bp4-group10 .bp4-group .bp4-ohomendoshackatho {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.bp4-home1440 .bp4-group10 .bp4-photo20190425110007 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 92px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group10 .bp4-photo20190425110007 .bp4-photo201904251100071 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-bitmap2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : 70px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 66px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-inscrevaseparamai {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3757px;
+  height              : auto;
+  width               : 1151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 147px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 55.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 73.0px;
+}
+.bp4-home1440 .bp4-rectangle4 {
+  background-color    : rgba(215, 215, 215, 0.8);
+  top                 : 3866px;
+  height              : 38px;
+  width               : 401px;
+  position            : absolute;
+  margin              : 0;
+  left                : 463px;
+  border-radius       : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-textescrevaaquioseuemail {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3869px;
+  height              : 30px;
+  width               : 366px;
+  position            : absolute;
+  margin              : 0;
+  left                : 481px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.bp4-home1440 .bp4-textescrevaaquioseuemail::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.bp4-home1440 .bp4-group12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3866px;
+  height              : 38px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 864px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group12 .bp4-rectangle5 {
+  background-color    : rgba(237, 2, 140, 1.0);
+  top                 : 0px;
+  height              : 38px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-home1440 .bp4-group12 .bp4-inscrever {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(254, 244, 2, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
