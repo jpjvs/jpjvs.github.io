@@ -2660,7 +2660,16 @@ div {
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  animation           : moveUpBar 10s ease-in-out infinite;
 }
+
+@keyframes moveUpBar 
+{
+  0% {left: -100px;}
+  50% {left: 700px;}
+  100% {left: -100px;}
+}
+
 .bp4-home1440 .bp4-rectangle2 {
   background-color    : rgba(255, 247, 18, 1.0);
   top                 : 649px;
@@ -2672,7 +2681,16 @@ div {
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  animation           : moveDownBar 10s ease-in-out infinite;
 }
+
+@keyframes moveDownBar 
+{
+  0% {left: 800px;}
+  50% {left: -200px;}
+  100% {left: 800px;}
+}
+
 .bp4-home1440 .bp4-eit301cansadodees {
   background-color    : rgba(255,255,255,0.0);
   top                 : 213px;
@@ -2852,7 +2870,16 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
+  animation           : float 4s ease-in-out infinite;
 }
+
+@keyframes float 
+{
+  0% { transform: translate(0,  0px); }
+  65%  { transform: translate(0, 15px); }
+  100%   { transform: translate(0, -0px); }
+}
+
 .bp4-home1440 .bp4-group2:hover {
   transform           : translate(0, -5px);
 }
@@ -2968,6 +2995,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
+  animation           : float 4s ease-in-out infinite;
 }
 .bp4-home1440 .bp4-group5:hover {
   transform           : translate(0, -5px);
@@ -3084,6 +3112,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
+  animation           : float 4s ease-in-out infinite;
 }
 .bp4-home1440 .bp4-group8:hover {
   transform           : translate(0, -5px);
@@ -3200,6 +3229,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
+  animation           : float 4s ease-in-out infinite;
 }
 .bp4-home1440 .bp4-group3:hover {
   transform           : translate(0, -5px);
@@ -3316,6 +3346,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
+  animation           : float 4s ease-in-out infinite;
 }
 .bp4-home1440 .bp4-group6:hover {
   transform           : translate(0, -5px);
@@ -3432,6 +3463,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
+  animation           : float 4s ease-in-out infinite;
 }
 .bp4-home1440 .bp4-group9:hover {
   transform           : translate(0, -5px);
@@ -3548,6 +3580,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
+  animation           : float 4s ease-in-out infinite;
 }
 .bp4-home1440 .bp4-group4:hover {
   transform           : translate(0, -5px);
@@ -3664,6 +3697,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
+  animation           : float 4s ease-in-out infinite;
 }
 .bp4-home1440 .bp4-group7:hover {
   transform           : translate(0, -5px);
@@ -3780,6 +3814,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
+  animation           : float 4s ease-in-out infinite;
 }
 .bp4-home1440 .bp4-group10:hover {
   transform           : translate(0, -5px);
