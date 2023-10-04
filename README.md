@@ -13,7 +13,7 @@
 // hub config
 let config = {
   publicAppKey : "821f3c02-d714-4247-96a3-55c7251d466d",
-  redirectUrl : "https://my-service.com/callback](https://api.stg.prepi.com.br/gateway/v5pagarme/installation",
+  redirectUrl : "https://api.stg.prepi.com.br/gateway/v5pagarme/installation",
   language: "pt-BR",
   environment: "production"
   //installId: "00000000-0000-0000-0000-000000000000"
