@@ -5,11 +5,11 @@ import { useEffect } from 'react';
 import { initFBSDK } from './services/meta';
 
 function App() {
-  const { FB_APP_ID } = process.env
+  const { REACT_APP_FB_APP_ID } = process.env
 
   useEffect(() => {
-    initFBSDK(FB_APP_ID)
-  }, [FB_APP_ID])
+    initFBSDK(REACT_APP_FB_APP_ID)
+  }, [REACT_APP_FB_APP_ID])
 
   return (
     <div className="App">

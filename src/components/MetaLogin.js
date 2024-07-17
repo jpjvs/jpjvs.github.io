@@ -2,10 +2,10 @@ import React from 'react';
 import { metaLogin } from '../services/meta';
 
 const MetaLogin = () => {
-  const { FB_SCOPES } = process.env
+  const { REACT_APP_FB_SCOPES } = process.env
 
   const handleLogin = () => {
-    metaLogin(FB_SCOPES, response => {
+    metaLogin(REACT_APP_FB_SCOPES, response => {
       // Save token information safely somewhere
       // . . . (TO DO)
 
